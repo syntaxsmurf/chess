@@ -1,0 +1,8 @@
+C:\Users\Andreas\Documents\Programming\Chess\.mono\temp\bin\Debug\Chess.dll
+C:\Users\Andreas\Documents\Programming\Chess\.mono\temp\bin\Debug\Chess.pdb
+C:\Users\Andreas\Documents\Programming\Chess\.mono\temp\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\Andreas\Documents\Programming\Chess\.mono\temp\obj\Debug\Chess.AssemblyInfoInputs.cache
+C:\Users\Andreas\Documents\Programming\Chess\.mono\temp\obj\Debug\Chess.AssemblyInfo.cs
+C:\Users\Andreas\Documents\Programming\Chess\.mono\temp\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\Documents\Programming\Chess\.mono\temp\obj\Debug\Chess.dll
+C:\Users\Andreas\Documents\Programming\Chess\.mono\temp\obj\Debug\Chess.pdb
